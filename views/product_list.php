@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Danh sách sản phẩm</title>
+    <title>Danh sách sản phẩm là</title>
     <style>
         table {
             border-collapse: collapse;
@@ -19,7 +19,7 @@
 </head>
 <body>
 
-<h2 style="text-align:center;">Danh sách sản phẩm</h2>
+<h2 style="text-align:center;">Danh sách sản phẩm là :</h2>
 
 <table>
     <tr>
